@@ -13,3 +13,4 @@
 'Miku=u0_a404Bahsbnsu0_a404Lx28'
 'Miku=u0_a200Bahsbnsu0_a200Lx28'
 'Miku=u0_a396Bahsbnsu0_a396Lx28'
+'Miku=u0_a194Bahsbnsu0_a194Lx28'
