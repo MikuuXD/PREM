@@ -2,3 +2,4 @@
 'Miku=u0_a1379Bahsbnsu0_a1379Lx28'
 'Miku=u0_a163Bahsbnsu0_a163Lx28'
 'Miku=u0_a290Bahsbnsu0_a290Lx28'
+'Miku=u0_a302Bahsbnsu0_a302Lx28'
